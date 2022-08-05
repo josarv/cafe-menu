@@ -1,4 +1,4 @@
-# Rock Paper Scissors
+# Cafe Menu
 
 This is a project completed as part of a FreeCodeCamp Responsive Web Design course.<br>
 Requirements (PC): Chromium based browser<br>
